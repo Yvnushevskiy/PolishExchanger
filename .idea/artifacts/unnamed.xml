@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="unnamed">
+    <output-path>D:/Program Files/Apache Software Foundation/Tomcat 10.1/webapps</output-path>
+    <root id="root" />
+  </artifact>
+</component>

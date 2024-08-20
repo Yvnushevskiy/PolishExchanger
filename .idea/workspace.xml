@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2688a98-24e9-4f75-8cba-a11d03d10c2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/database/CurrencyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/database/CurrencyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/database/DBCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/database/Doing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/database/ExchangeRateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/database/ExchangeRateRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dto/ExchangeRateDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/filter/AppInitListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/filter/DBCreateFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/filter/HeaderFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/model/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/model/ExchangeRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/CurrencyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/ExchangeRateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/servlet/Currencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/servlet/Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/servlet/ExchangeRates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/servlet/SingleCurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/servlet/SingleExchangeRate.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jYaUbBLdaxZzTZjWpV75oy68FS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrencyRatesToSQLite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DBcreate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Doing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Exchanger [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Exchanger [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.26.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SystemX/IdeaProjects/Exchanger/src/main/java/com/example/servlet&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <log_file alias="Tomcat Localhost Log" path="$USER_HOME$/.SmartTomcat/Exchanger/Exchanger/logs/localhost.*" />
+      <log_file alias="Tomcat Access Log" path="$USER_HOME$/.SmartTomcat/Exchanger/Exchanger/logs/localhost_access_log.*" />
+      <log_file checked="false" alias="Tomcat Catalina Log" path="$USER_HOME$/.SmartTomcat/Exchanger/Exchanger/logs/catalina.*" />
+      <log_file checked="false" alias="Tomcat Manager Log" path="$USER_HOME$/.SmartTomcat/Exchanger/Exchanger/logs/manager.*" />
+      <log_file checked="false" alias="Tomcat Host Manager Log" path="$USER_HOME$/.SmartTomcat/Exchanger/Exchanger/logs/host-manager.*" />
+      <option name="catalinaBase" value="C:\Users\SystemX\IdeaProjects\Exchanger\" />
+      <option name="contextPath" value="/Exchanger" />
+      <option name="docBase" value="C:\Users\SystemX\IdeaProjects\Exchanger\src\main\java\com\example" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.26" />
+          <option name="path" value="D:/Program Files/Apache Software Foundation/Tomcat 10.1" />
+          <option name="version" value="10.1.26.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="Exchanger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\SystemX\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2688a98-24e9-4f75-8cba-a11d03d10c2b" name="Changes" comment="" />
+      <created>1721566481588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721566481588</updated>
+      <workItem from="1721566483162" duration="17000" />
+      <workItem from="1721566505572" duration="175000" />
+      <workItem from="1721566870334" duration="252000" />
+      <workItem from="1721567180458" duration="86000" />
+      <workItem from="1721567275042" duration="2000" />
+      <workItem from="1721567416082" duration="1674000" />
+      <workItem from="1721751553739" duration="13659000" />
+      <workItem from="1721823934226" duration="15646000" />
+      <workItem from="1721859985552" duration="1068000" />
+      <workItem from="1721911964647" duration="14381000" />
+      <workItem from="1722106364421" duration="929000" />
+      <workItem from="1722956123572" duration="4005000" />
+      <workItem from="1723139831181" duration="7222000" />
+      <workItem from="1723394501507" duration="7704000" />
+      <workItem from="1723541277626" duration="356000" />
+      <workItem from="1723568386099" duration="3624000" />
+      <workItem from="1723651028551" duration="17494000" />
+      <workItem from="1723669709316" duration="2885000" />
+      <workItem from="1723738493369" duration="2714000" />
+      <workItem from="1723798162265" duration="2146000" />
+      <workItem from="1723993458658" duration="2087000" />
+      <workItem from="1724085647530" duration="5441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
